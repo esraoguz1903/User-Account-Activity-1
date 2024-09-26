@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\EventTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\EventTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\LoginLogoutTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\LoginLogoutTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountModificationTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\AccountModificationTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\EventTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\EventTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountModificationTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\AccountModificationTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountCreationTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\AccountCreationTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountDeletionTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\AccountDeletionTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\LoginLogoutTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\LoginLogoutTracker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\UserAccountActivity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountDeletionTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\AccountDeletionTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountCreationTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC658048-39AE-414F-A336-7E66BD43C2A8}|UserAccountActivity\\UserAccountActivity.vcxproj|solutionrelative:UserAccountActivity\\AccountCreationTracker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventTracker.h",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\EventTracker.h",
+              "RelativeDocumentMoniker": "UserAccountActivity\\EventTracker.h",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\EventTracker.h",
+              "RelativeToolTip": "UserAccountActivity\\EventTracker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T08:47:55.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventTracker.cpp",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\EventTracker.cpp",
+              "RelativeDocumentMoniker": "UserAccountActivity\\EventTracker.cpp",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\EventTracker.cpp",
+              "RelativeToolTip": "UserAccountActivity\\EventTracker.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T08:48:08.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountModificationTracker.cpp",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountModificationTracker.cpp",
+              "RelativeDocumentMoniker": "UserAccountActivity\\AccountModificationTracker.cpp",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountModificationTracker.cpp",
+              "RelativeToolTip": "UserAccountActivity\\AccountModificationTracker.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAEIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T08:50:55.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginLogoutTracker.h",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\LoginLogoutTracker.h",
+              "RelativeDocumentMoniker": "UserAccountActivity\\LoginLogoutTracker.h",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\LoginLogoutTracker.h",
+              "RelativeToolTip": "UserAccountActivity\\LoginLogoutTracker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-24T09:02:17.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountCreationTracker.cpp",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountCreationTracker.cpp",
+              "RelativeDocumentMoniker": "UserAccountActivity\\AccountCreationTracker.cpp",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountCreationTracker.cpp",
+              "RelativeToolTip": "UserAccountActivity\\AccountCreationTracker.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T08:49:53.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginLogoutTracker.cpp",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\LoginLogoutTracker.cpp",
+              "RelativeDocumentMoniker": "UserAccountActivity\\LoginLogoutTracker.cpp",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\LoginLogoutTracker.cpp",
+              "RelativeToolTip": "UserAccountActivity\\LoginLogoutTracker.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T08:51:52.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountModificationTracker.h",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountModificationTracker.h",
+              "RelativeDocumentMoniker": "UserAccountActivity\\AccountModificationTracker.h",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountModificationTracker.h",
+              "RelativeToolTip": "UserAccountActivity\\AccountModificationTracker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-24T09:02:14.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountDeletionTracker.cpp",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountDeletionTracker.cpp",
+              "RelativeDocumentMoniker": "UserAccountActivity\\AccountDeletionTracker.cpp",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountDeletionTracker.cpp",
+              "RelativeToolTip": "UserAccountActivity\\AccountDeletionTracker.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T08:51:29.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAccountActivity.cpp",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity.cpp",
+              "RelativeDocumentMoniker": "UserAccountActivity\\UserAccountActivity.cpp",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity.cpp",
+              "RelativeToolTip": "UserAccountActivity\\UserAccountActivity.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-11T09:08:36.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountDeletionTracker.h",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountDeletionTracker.h",
+              "RelativeDocumentMoniker": "UserAccountActivity\\AccountDeletionTracker.h",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountDeletionTracker.h",
+              "RelativeToolTip": "UserAccountActivity\\AccountDeletionTracker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-24T09:02:13.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountCreationTracker.h",
+              "DocumentMoniker": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountCreationTracker.h",
+              "RelativeDocumentMoniker": "UserAccountActivity\\AccountCreationTracker.h",
+              "ToolTip": "C:\\Users\\Esra\\Desktop\\UserAccountActivity\\UserAccountActivity\\UserAccountActivity\\AccountCreationTracker.h",
+              "RelativeToolTip": "UserAccountActivity\\AccountCreationTracker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-24T09:02:12.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
